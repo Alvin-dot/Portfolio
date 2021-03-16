@@ -5,4 +5,4 @@
 3. Verificar como faz pra subir sites pelo github
 4. Subir portfólio no github e linkar no LinkedIn
 
-Verificar como hostear sites no vercel e netlify
+Adicionar ícone do navegador
