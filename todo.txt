@@ -2,7 +2,7 @@
 -- Adicionar tecnologias
 -- Experimentar novos bg color
 2. Atualizar imagens
-3. Verificar como faz pra subir sites pelo github
 4. Subir portfólio no github e linkar no LinkedIn
 
 Adicionar ícone do navegador
+Adicionar ícone para site e navegador
