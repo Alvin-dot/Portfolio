@@ -1,10 +1,5 @@
-1. Terminar formatação do portfólio
--- Adicionar tecnologias
--- Experimentar novos bg color
-2. Atualizar imagens
 4. Subir portfólio no github e linkar no LinkedIn
 
-Adicionar ícone do navegador
-Adicionar ícone para site e navegador
-
-HeyHeyHey!
+Adicionar botão para site e repositório
+Adicionar descrição pessoal e dos projetos principais
+Adicionar tecnologias utilizadas com ícone
