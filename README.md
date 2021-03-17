@@ -1,1 +1,2 @@
 # portfolio
+This is my personal portfolio. I made it using HTML and CSS during the freecodecamp responsive web design course. You can access this webpage by clicking [here](https://alvaro-baranoski.github.io/portfolio/#welcome-section)
